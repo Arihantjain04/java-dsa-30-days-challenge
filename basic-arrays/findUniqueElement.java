@@ -16,8 +16,6 @@ class findUniqueElement {
     public static void main(String[] var0) {
         int[] arr = new int[]{1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 19};
         Scanner sc = new Scanner(System.in);
-        System.out.print("enter size : ");
-//        int var3 = sc.nextInt();
         System.out.println(findUnique(arr));
     }
 }
