@@ -1,4 +1,5 @@
 // which container formed using the height and width from heights array and index will contain most water ie maxm area
+
 import java.util.ArrayList;
 public class containerWithMostWater {
 
@@ -39,6 +40,6 @@ public class containerWithMostWater {
         heights.add(3);
         heights.add(7);
 
-        System.out.println("Maximum water volume is : " + maxWater(heights));
+        System.out.println("Maximum water is of volume : " + maxWater(heights));
     }
 }
