@@ -40,6 +40,5 @@ public class containerWithMostWater {
         heights.add(7);
 
         System.out.println("Maximum water volume is : " + maxWater(heights));
-        System.out.println("hello");
     }
 }
